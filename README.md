@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @uxxiat from Spain
+- 👀 I’m interested in learning python syntax
+- 🌱 I’m currently learning to code better, because I only have a few notions
